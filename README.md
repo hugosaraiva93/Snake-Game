@@ -1,10 +1,10 @@
 # Snake Game - DIO
 
-Desafio de JavaScript da Digital-Innovation-One
+* Desafio de JavaScript da Digital-Innovation-One
 
 ### Obeject
 
-Recriar o jogo da cobrinha
+* Recriar o jogo da cobrinha
 
 ## Projeto trabalhado no :
 
