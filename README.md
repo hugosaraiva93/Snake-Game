@@ -1,4 +1,4 @@
-# Snake Game - DIO
+# Snake Game
 
 * Desafio de JavaScript da Digital-Innovation-One
 
