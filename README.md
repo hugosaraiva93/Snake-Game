@@ -1,6 +1,6 @@
 # Snake Game
 
-* Desafio de JavaScript da Digital-Innovation-One
+* Desafio de JavaScript da DIO
 
 ### Obeject
 
